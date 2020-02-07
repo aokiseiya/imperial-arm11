@@ -1,0 +1,4 @@
+#!/usr/bin/ruby
+# Ruby front-end for running test server.
+
+system("ruby test/testserver.rb build")
